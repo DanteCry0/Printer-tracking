@@ -38,7 +38,7 @@ As dependências do projeto estão listadas no arquivo `requirements.txt`. Para 
 ```bash
 pip install -r requirements.txt
 
-Estrutura do Projeto
+## **Estrutura do Projeto**
 
 monitoramento-de-impressoes/
 │
@@ -51,7 +51,7 @@ monitoramento-de-impressoes/
 
 ---
 
-Configuração e Execução
+## **Configuração e Execução**
 
 1. Clonar o repositório:
 
@@ -86,7 +86,7 @@ Abra o navegador e acesse: http://127.0.0.1:5000/print_jobs
 
 ---
 
-Melhorias Futuras
+## **Melhorias Futuras**
 
 Compatibilidade com outros sistemas operacionais (Linux/macOS).
 
@@ -100,7 +100,7 @@ Interface gráfica aprimorada.
 
 ---
 
-Contribuições
+## **Contribuições**
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar pull requests.
 
@@ -114,9 +114,9 @@ Este projeto é distribuído sob a licença MIT. Consulte o arquivo LICENSE para
 
 ---
 
-🇬🇧 English - United Kingdom
+## **🇬🇧 English - United Kingdom**
 
-Features
+## **Features**
 
 Automatically monitors printers configured in the system.
 
